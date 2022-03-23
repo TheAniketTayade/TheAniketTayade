@@ -3,25 +3,15 @@ I have always been a keen enthusiast of Technology, Artificial Intelligence and 
 I have very keen knowledge of :
 
 • Machine Learning (ML-Ops)
-
 • Deep Learning
-
 • Computer Vision
-
 • NLP
-
 • Data Science
-
 • Cloud Platforms- Microsoft Azure, Google Cloud Platform, AWS
-
 • Cloud Computing
-
 • Front End Development
-
 • Cosmology
-
 • Astrophysics
-
 • Biology
 
 I love to collaborate with new people for technical discussion and development.

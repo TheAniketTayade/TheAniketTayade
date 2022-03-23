@@ -1,6 +1,7 @@
 ### Hi there 👋
 I have always been a keen enthusiast of Technology, Artificial Intelligence and Space, Defence. This curiousness makes me energetic to learn the trending tech such as Deep Learning, Space Technology etc. I have learned, practiced and implemented it in my projects.
 I have very keen knowledge of :
+
 • Machine Learning (ML-Ops)
 • Deep Learning
 • Computer Vision

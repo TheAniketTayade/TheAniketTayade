@@ -36,10 +36,10 @@ Here are some of my notable projects:
 ## Certifications
 
 - TCS Codevita Season 10 Ranker
-- Microsoft AI-900
+- Microsoft AI-900, AZ-900, AZ-101 (Certified Azure Developer)
 - TensorFlow Developer Professional Certificate
-- Bayesian Statistics: From Concept to Data Analysis
-- Microsoft AI Classroom Series
+- Machine Learning Specialization from University of Washington 
+- Deep Learning Specialization 
 
 ## Contact
 

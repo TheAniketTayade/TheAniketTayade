@@ -1,35 +1,37 @@
-# Project Name
+# Hi, I'm Aniket Tayade! 👋
 
-Brief description of your project.
+## About Me
 
-## Table of Contents
+I'm a Machine Learning Engineer with a strong focus on creating deep learning-based computer vision and NLP products. Passionate about technology, artificial intelligence, and space exploration, I constantly strive to learn and implement cutting-edge technologies in my projects. I have a creative mindset and love collaborating with like-minded individuals for technical discussions and development.
 
-- [Introduction](#introduction)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Experience](#experience)
-- [Education](#education)
-- [Contact](#contact)
-
-## Introduction
-
-Hello World! I'm Aniket Tayade, a Machine Learning Engineer with a focus on creating deep learning-based computer vision and NLP products. I am based in Pune, Maharashtra, India. I have a keen interest in technology, artificial intelligence, space, and defense. I love to learn and implement trending tech such as Deep Learning and Space Technology in my projects. I am always open to collaborating with new people for technical discussions and development.
-
-You can reach me via email at tayadeaniket5@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-tayade). Check out my portfolio website at [theanikettayade.tech](https://theanikettayade.tech).
+- 🔭 I’m currently working as a Deep Learning Engineer at Tarsyer.
+- 🌱 I'm skilled in Machine Learning, Deep Learning, Computer Vision, NLP, Data Science, and Cloud platforms (Microsoft Azure, Google Cloud Platform, AWS).
+- 👯 I'm always open to exciting collaboration opportunities and innovative projects.
+- 📫 Reach me at: tayadeaniket5@gmail.com
+- 💼 Check out my [LinkedIn profile](https://www.linkedin.com/in/aniket-tayade) for more details about my work experience.
 
 ## Skills
 
-- Machine Learning (ML-Ops)
+- Machine Learning
 - Deep Learning
 - Computer Vision
-- NLP
+- Natural Language Processing (NLP)
 - Data Science
 - Cloud Platforms: Microsoft Azure, Google Cloud Platform, AWS
-- Cloud Computing
 - Front End Development
 - Cosmology
 - Astrophysics
 - Biology
+
+## Projects
+
+Here are some of my notable projects:
+
+- Automated Parking System: Developed a deep learning-based system for detecting vacant parking spaces and tracking vehicle movement using computer vision techniques and YOLOV5. Integrated number plate recognition for real-time tracking. Technologies used: OpenCV, YOLOV5, Deep Learning, Azure.
+
+- Automated Vehicle Damage Calculation using Image Segmentation: Trained a system to accurately identify and segment damaged regions of vehicles using deep learning and image segmentation. Provided a faster and objective method for calculating vehicle damage compared to manual methods. Technologies used: OpenCV, YOLOV7 Segmentation, Deep Learning, Azure.
+
+- Holonomic Pick & Place Robots: Designed and implemented an Omni Directional bot's chassis using mecanum wheels. Integrated vacuum technology for pick & place mechanism with high accuracy. Technologies used: Computer Vision, Deep Learning, IoT, Robotics.
 
 ## Certifications
 
@@ -39,32 +41,9 @@ You can reach me via email at tayadeaniket5@gmail.com or connect with me on [Lin
 - Bayesian Statistics: From Concept to Data Analysis
 - Microsoft AI Classroom Series
 
-## Experience
-
-- Deep Learning Engineer, Tarsyer (July 2022 - Present)
-  - Location: Pune, Maharashtra, India
-
-- Software Developer Trainee, Fujitsu (May 2022 - November 2022)
-  - Location: Pune, Maharashtra, India
-
-- Team Member, Robotics Research Lab, Government College of Engineering and Research Pune (August 2019 - March 2021)
-  - Goal: To create 2 autonomous robots for ROBO RUGBY 7S, capable of picking, throwing, placing, and kicking the rugby ball into the fence.
-  - Technologies Used: Computer Vision, Robotics, Shortest Distance Approach
-
-- Machine Learning Intern, Cloud.AI (June 2020 - September 2020)
-  - Location: Remote
-  - Worked on data preprocessing techniques and machine learning model creation.
-  - Deployed models on Azure and AWS cloud platforms.
-  - Achieved 80% accuracy using Custom Vision on Cloud.
-
-## Education
-
-- Bachelor of Engineering - BE, Mechanical Engineering, Government College of Engineering and Research Pune (2019 - 2023)
-- Machine Learning Specialization, University of Washington (2021 - 2022)
-
 ## Contact
 
-- Email: tayadeaniket5@gmail.com
-- LinkedIn: [Aniket Tayade](https://www.linkedin.com/in/aniket-tayade)
-- Portfolio Website: [theanikettayade.tech](https://theanikettayade.tech)
-- Location: Pune, Maharashtra, India
+- 📧 Email: tayadeaniket5@gmail.com
+- 💼 LinkedIn: [Aniket Tayade](https://www.linkedin.com/in/aniket-tayade)
+- 🌐 Portfolio: [theanikettayade.tech](https://theanikettayade.tech)
+- 📍 Location: Pune, Maharashtra, India

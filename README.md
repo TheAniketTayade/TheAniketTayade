@@ -1,4 +1,7 @@
 # Hi, I'm Aniket Tayade! 👋
+### [Connect with me 💬](https://theanikettayade.tech) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheAniketTayade.TheAniketTayade)
+
 
 ## About Me
 

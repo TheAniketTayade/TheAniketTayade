@@ -48,5 +48,5 @@ Here are some of my notable projects:
 
 - 📧 Email: tayadeaniket5@gmail.com
 - 💼 LinkedIn: [Aniket Tayade](https://www.linkedin.com/in/aniket-tayade)
-- 🌐 Portfolio: [theanikettayade.tech](https://theanikettayade.tech)
+- 🌐 Portfolio: [theanikettayade.com](https://theanikettayade.com)
 - 📍 Location: Pune, Maharashtra, India

@@ -15,12 +15,12 @@ I'm a Machine Learning Engineer with a strong focus on creating deep learning-ba
 
 ## Skills
 
--   [cite_start]**Languages:** Python, Java, JavaScript, Julia (Basic) 
--   [cite_start]**Deep Learning:** Computer Vision (PyTorch, Tensorflow), Sequence Models, Generative DL, Custom Vision 
--   [cite_start]**Cloud:** Azure, GCP, AWS, Data Lakes, Databricks, SageMaker 
--   [cite_start]**Tools & Others:** CI/CD, Jenkins, Git, Docker, Kubernetes, Jira, Private Cloud Scripting 
--   [cite_start]**Web Development:** HTML5, CSS, Typescript, ReactJS, Bootstrap 
--   [cite_start]**UI/UX:** Figma, InVision, Adobe XD, Adobe PS, Adobe Illustrator, Coreldraw, Canva
+-   **Languages:** Python, Java, JavaScript, Julia (Basic) 
+-   **Deep Learning:** Computer Vision (PyTorch, Tensorflow), Sequence Models, Generative DL, Custom Vision 
+-   **Cloud:** Azure, GCP, AWS, Data Lakes, Databricks, SageMaker 
+-   **Tools & Others:** CI/CD, Jenkins, Git, Docker, Kubernetes, Jira, Private Cloud Scripting 
+-   **Web Development:** HTML5, CSS, Typescript, ReactJS, Bootstrap 
+-   **UI/UX:** Figma, InVision, Adobe XD, Adobe PS, Adobe Illustrator, Coreldraw, Canva
 
 ## Experience
 
@@ -28,19 +28,23 @@ I'm a Machine Learning Engineer with a strong focus on creating deep learning-ba
 *Currently exploring Google Agentspace.*
 
 ### Deep Learning Engineer - Tarsyer (July 2022 - Apr 2025)
-- [cite_start]Achieved 99% accuracy by creating a TFLite Model for object detection, with only 10 errors in 1000 objects. 
-- [cite_start]Leveraged Amazon SageMaker to build, train, and deploy scalable deep learning models for production-grade applications. 
-- [cite_start]Worked with high-profile clients including Trent, Tata Steel, Suzuki, Barbeque Nation, MP Birla, JSW, and Shree Cement. 
-- [cite_start]Developed and maintained the company's website (tarsyer.com). 
+- Achieved 99% accuracy by creating a TFLite Model for object detection, with only 10 errors in 1000 objects. 
+- Leveraged Amazon SageMaker to build, train, and deploy scalable deep learning models for production-grade applications. 
+- Worked with high-profile clients including Trent, Tata Steel, Suzuki, Barbeque Nation, MP Birla, JSW, and Shree Cement. 
+- Developed and maintained the company's website (tarsyer.com). 
 
 
 ## Projects
 
 Here are some of my notable projects:
 
--   [cite_start]**AI-based Warehouse Management System:** Developed a comprehensive computer vision solution to optimize warehouse operations, including dock utilization and forklift movement monitoring.  [cite_start]This resulted in a 70% improvement in turnaround times for clients like Mahindra Logistics and LEAP India. 
--   [cite_start]**Store Management System:** Created computer vision models for generating customer heatmaps, footfall counting, and real-time smoke and fire detection for clients such as Tata-Trent (Zudio, Westside, Misbu), SGM, and Hippo stores. 
--   [cite_start]**Production Monitoring Products:** Developed deep learning models for accurate analog instrument reading, object counting on high-speed conveyors, and intrusion detection systems for clients like Burger King, JSW Steel, Ultratech, and Barbeque Nation. 
+-   **AI-based Warehouse Management System:**
+-     Developed a comprehensive computer vision solution to optimize warehouse operations, including dock utilization and forklift movement monitoring.
+-     This resulted in a 70% improvement in turnaround times for clients like Mahindra Logistics and LEAP India. 
+-   **Store Management System:**
+-     Created computer vision models for generating customer heatmaps, footfall counting, and real-time smoke and fire detection for clients such as Tata-Trent (Zudio, Westside, Misbu), SGM, and Hippo stores. 
+-   **Production Monitoring Products:**
+-     Developed deep learning models for accurate analog instrument reading, object counting on high-speed conveyors, and intrusion detection systems for clients like Burger King, JSW Steel, Ultratech, and Barbeque Nation. 
 
 
 ## Certifications

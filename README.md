@@ -53,6 +53,7 @@ Here are some of my notable projects:
 - Created algorithms for **staffing adjustments** based on **customer traffic patterns, optimizing labor efficiency**.
 - Created **dashboards** for optimal insights from data.
 - _Clients using this system: **Tata-Trent (Zudio, Westside, Misbu), SGM, Hippo stores.**_
+- LINK: [_Store Management System_](https://youtu.be/zXGsChH4A-s?si=n1lo-50NrInxUrF7)
 
 **3. Production Monitoring Products**
 

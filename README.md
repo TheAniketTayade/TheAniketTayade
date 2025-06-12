@@ -45,6 +45,7 @@ Here are some of my notable projects:
 - Optimized **loading** and **unloading** times using AI-driven insights, resulting in **70%** improved turnaround times.
 - Integrated safety and compliance features such as **PPE monitoring, unauthorized entry detection, Ergonomics analysis and intrusion detection** to ensure a secure warehouse environment.
 - _Clients using this system: **Mahindra Logistics, LEAP India**._
+- LINK: [_Warehouse Management System_](https://youtu.be/Zrk7lFopQ2w?si=sREUkclifI4_q9nI)
 
 **2. Store Management System**
 
@@ -62,6 +63,7 @@ Here are some of my notable projects:
 - Designed and integrated intrusion detection systems, triggering sirens and sending **real-time alerts** via email and WhatsApp.
 - Deployed AI-driven **occupancy detection** solutions tailored for hotel chains to optimize room usage and energy management.
 - _Clients using this system: **Burger King, JSW Steel, Ultratech, Barbeque Nation, Si-Nonna's**_
+- LINK: [_Monitoring solutions_](https://youtu.be/1F1JIyUpz3Q?si=4CDb0E2ASjP7Z4Hg)
 
 ## Certifications
 

@@ -38,14 +38,29 @@ I'm a Machine Learning Engineer with a strong focus on creating deep learning-ba
 
 Here are some of my notable projects:
 
--   **AI-based Warehouse Management System:**
--     Developed a comprehensive computer vision solution to optimize warehouse operations, including dock utilization and forklift movement monitoring.
--     This resulted in a 70% improvement in turnaround times for clients like Mahindra Logistics and LEAP India. 
--   **Store Management System:**
--     Created computer vision models for generating customer heatmaps, footfall counting, and real-time smoke and fire detection for clients such as Tata-Trent (Zudio, Westside, Misbu), SGM, and Hippo stores. 
--   **Production Monitoring Products:**
--     Developed deep learning models for accurate analog instrument reading, object counting on high-speed conveyors, and intrusion detection systems for clients like Burger King, JSW Steel, Ultratech, and Barbeque Nation. 
+**1. AI-based Warehouse Management System**
 
+- Developed a comprehensive computer vision solution to optimize warehouse operations, including **dock utilization** and **forklift movement monitoring**.
+- Implemented **real-time inventory management** and monitoring, enhancing **stock accuracy** and reducing operational inefficiencies.
+- Optimized **loading** and **unloading** times using AI-driven insights, resulting in **70%** improved turnaround times.
+- Integrated safety and compliance features such as **PPE monitoring, unauthorized entry detection, Ergonomics analysis and intrusion detection** to ensure a secure warehouse environment.
+- _Clients using this system: **Mahindra Logistics, LEAP India**._
+
+**2. Store Management System**
+
+- Developed computer vision models for generating **customer heatmap** and **footfall counting (excluding children)**, providing actionable insights into customer behavior.
+- Implemented **real-time smoke** and **fire detection systems** using deep learning techniques for enhanced store safety.
+- Created algorithms for **staffing adjustments** based on **customer traffic patterns, optimizing labor efficiency**.
+- Created **dashboards** for optimal insights from data.
+- _Clients using this system: **Tata-Trent (Zudio, Westside, Misbu), SGM, Hippo stores.**_
+
+**3. Production Monitoring Products**
+
+- Developed deep learning models for accurate **analog instrument reading** in industrial settings.
+- Implemented **object counting systems** capable of tracking **static** objects and those on **high-speed conveyors** using computer vision.
+- Designed and integrated intrusion detection systems, triggering sirens and sending **real-time alerts** via email and WhatsApp.
+- Deployed AI-driven **occupancy detection** solutions tailored for hotel chains to optimize room usage and energy management.
+- _Clients using this system: **Burger King, JSW Steel, Ultratech, Barbeque Nation, Si-Nonna's**_
 
 ## Certifications
 
